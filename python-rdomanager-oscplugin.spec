@@ -14,6 +14,7 @@ BuildRequires:  python-pbr
 
 Requires:       instack
 Requires:       instack-undercloud
+Requires:       os-cloud-config
 Requires:       python-ironic-discoverd
 Requires:       python-ironicclient
 Requires:       python-openstackclient
